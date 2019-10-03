@@ -1,2 +1,3 @@
 # njs1
-Repo pour les fichiers 
+Repository pour les fichiers .
+
